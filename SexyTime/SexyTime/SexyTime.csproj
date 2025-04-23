@@ -48,6 +48,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Configs\QuizCategories.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images\CuteCoupleSilhouette.png" />
+    <Content Include="Images\favicon.png" />
+    <Content Include="Images\LogoShort.png" />
+    <Content Include="Images\LogoSquare.png" />
+    <Content Include="index.html" />
+    <Content Include="site.css" />
+    <Content Include="site.js" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
